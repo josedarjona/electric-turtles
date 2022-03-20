@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './Navbar';
 
 const Layout = ({ children }) => (
-  <div>
+  <div className="layout-container">
     <Navbar />
     {children}
   </div>

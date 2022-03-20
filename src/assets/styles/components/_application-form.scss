@@ -1,0 +1,36 @@
+.application-container {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5em;
+  .application-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    .inputs-box {
+      display: flex;
+      flex-direction: column;
+      border-radius: 10px;
+      border: 1px solid lightgray;
+      padding: 50px;
+      margin: 10px;
+      .input-field {
+        width: auto;
+        margin-bottom: 40px;
+        margin-top: 10px;
+        &.email {
+          margin-bottom: 40px;
+        }
+        .radio-btn {
+          margin: 2px 0px;
+          color: rgb(43, 43, 43);
+        }
+      }
+    }
+  }
+}

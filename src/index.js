@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { init } from '@emailjs/browser';
 import App from './components/App';
 import reportWebVitals from './reportWebVitals';
 import './assets/styles/master.scss';
@@ -10,6 +11,7 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+init('QGO7TKbfTKHKk_qjk');
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
