@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { init } from '@emailjs/browser';
-import App from './components/App';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './assets/styles/master.scss';
 

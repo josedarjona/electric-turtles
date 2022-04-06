@@ -1,0 +1,217 @@
+{
+  "frames": {
+    "left": {
+      "filename": "main_character_1",
+      "frame": {
+        "x": 33,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right": {
+      "filename": "main_character_7",
+      "frame": {
+        "x": 33,
+        "y": 66,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "front": {
+      "filename": "main_character_10",
+      "frame": {
+        "x": 33,
+        "y": 99,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "back": {
+      "filename": "main_character_4",
+      "frame": {
+        "x": 33,
+        "y": 33,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "left-walk.000": {
+      "filename": "main_character_0",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "left-walk.001": {
+      "filename": "main_character_1",
+      "frame": {
+        "x": 33,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "left-walk.002": {
+      "filename": "main_character_2",
+      "frame": {
+        "x": 66,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "back-walk.000": {
+      "filename": "main_character_3",
+      "frame": {
+        "x": 0,
+        "y": 33,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "back-walk.001": {
+      "filename": "main_character_4",
+      "frame": {
+        "x": 33,
+        "y": 33,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "back-walk.002": {
+      "filename": "main_character_5",
+      "frame": {
+        "x": 66,
+        "y": 33,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-walk.000": {
+      "filename": "main_character_6",
+      "frame": {
+        "x": 0,
+        "y": 66,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-walk.001": {
+      "filename": "main_character_7",
+      "frame": {
+        "x": 33,
+        "y": 66,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-walk.002": {
+      "filename": "main_character_8",
+      "frame": {
+        "x": 66,
+        "y": 66,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "front-walk.000": {
+      "filename": "main_character_9",
+      "frame": {
+        "x": 0,
+        "y": 99,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "front-walk.001": {
+      "filename": "main_character_10",
+      "frame": {
+        "x": 33,
+        "y": 99,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "front-walk.002": {
+      "filename": "main_character_11",
+      "frame": {
+        "x": 66,
+        "y": 99,
+        "w": 32,
+        "h": 32
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "version": "1.0",
+    "image": "main_character.png",
+    "format": "RGBA8888"
+  }
+}
