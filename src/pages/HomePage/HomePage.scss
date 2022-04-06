@@ -1,0 +1,30 @@
+.home-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  max-height: 100vh;
+  max-width: 100vw;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.home-game {
+  position: relative;
+  grid-column-start: 2;
+  grid-row-start: 2;
+  height: 600px;
+  width: 800px;
+  place-self: center;
+}
+
+.home-modal-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.home-modal {
+  background-color: #282828;
+  height: 100%;
+  width: 100%;
+}

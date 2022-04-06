@@ -1,0 +1,1 @@
+export const onEnterZoneEvent = new Event('onEnterZone')

@@ -4,3 +4,16 @@
 // components
 @import './components/layout';
 @import './components/application-form';
+
+[data-reach-dialog-content] {
+  width: 90%;
+  max-width: 500px;
+  border-radius: 8px;
+}
+
+body {
+  background-color: #282820;
+  color: #dadada;
+  padding: 0;
+  margin: 0;
+}
